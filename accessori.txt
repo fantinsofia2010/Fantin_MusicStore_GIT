@@ -1,0 +1,6 @@
+plettro: 50 centesimi
+amplificatore: 80 euro
+bacchette: 25 euro
+appoggia chittarra: 7 euro
+tracolla chitarra: 10 euro
+leggio: 20 euro
